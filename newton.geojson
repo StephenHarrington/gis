@@ -24,7 +24,7 @@
 		"properties":{
 			"parcel":"11001 0001",
 			"foo":"bar",
-			"fill":"#ff0",
+			"fill":"#f00",
 		        "stroke": "#000000",
             		"stroke-width": 2
 
