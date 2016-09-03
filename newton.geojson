@@ -10,7 +10,7 @@
 		"id":0,
 		"properties":{
 			"parcel":"11001 0001",
-			"foo":"bar"
+			"foo":"bar",
 			"fill":"#fa0",
 		        "stroke": "#000000",
             		"stroke-width": 2
