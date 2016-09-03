@@ -22,7 +22,8 @@
 		"id":1,
 		"properties":{
 			"building":"A",
-			"foo":"barbar"
+			"foo":"barbar",
+			"fill":"#ace"
 		}
 		
 	},
