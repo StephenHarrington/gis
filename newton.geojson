@@ -23,7 +23,9 @@
 		"properties":{
 			"building":"A",
 			"foo":"barbar",
-			"fill":"#ace"
+			"fill":"#fff",
+		        "stroke": "#f0f0f0",
+            		"stroke-width": 2
 		}
 		
 	},
