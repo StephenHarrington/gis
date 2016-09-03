@@ -11,6 +11,10 @@
 		"properties":{
 			"parcel":"11001 0001",
 			"foo":"bar"
+			"fill":"#fa0",
+		        "stroke": "#000000",
+            		"stroke-width": 2
+
 		}
 	},
 	{"geometry":
@@ -22,10 +26,7 @@
 		"id":1,
 		"properties":{
 			"building":"A",
-			"foo":"barbar",
-			"fill":"#ff0",
-		        "stroke": "#000000",
-            		"stroke-width": 4
+			"foo":"barbar"
 		}
 		
 	},
