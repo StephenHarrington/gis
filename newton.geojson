@@ -92,6 +92,17 @@
 		"properties":{
 			"building":"B4",
 			"foo":"multi-building"
+		},
+	{"geometry":
+		{"type":"Polygon",
+		"coordinates":[[[-71.193755,42.365459],[-71.193939,42.365471],[-71.193903,42.365796],[-71.193719,42.365785],[-71.193755,42.365459]]
+			]
+		},
+		"type":"Feature",
+		"id":8,
+		"properties":{
+			"building":"B5",
+			"foo":"multi-building"
 		}
 		
 	}
